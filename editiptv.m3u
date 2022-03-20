@@ -1,0 +1,543 @@
+﻿#EXTM3U
+##EXTINF:-1 tvg-ID="tveinteu.es" tvg-name="[ES] [4K] TVE INTERNACIONAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/TVEINTERNACIONALHD.png" group-title="[ES] GENERAL",[ES] [4K] TVE INTERNACIONAL HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94646
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="[ES] [4K] LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MFORMULA1HD.png" group-title="[ES] GENERAL",[ES] [4K] LA 1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94693
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="[ES] [4K] LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LA2.png" group-title="[ES] GENERAL",[ES] [4K] LA 2 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94692
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="[ES] [4K] ANTENA 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ANTENA3HD.png" group-title="[ES] GENERAL",[ES] [4K] ANTENA 3 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94653
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="[ES] [4K] CUATRO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CUATROHD.png" group-title="[ES] GENERAL",[ES] [4K] CUATRO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94681
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="[ES] [4K] TELECINCO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELECINCOHD.png" group-title="[ES] GENERAL",[ES] [4K] TELECINCO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94631
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="[ES] [4K] LA SEXTA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LASEXTAHD.png" group-title="[ES] GENERAL",[ES] [4K] LA SEXTA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94691
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="[ES] [4K] CANAL SUR A. HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALSURA.png" group-title="[ES] GENERAL",[ES] [4K] CANAL SUR A. HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94659
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="[ES] [4K] NOVA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NOVA.png" group-title="[ES] GENERAL",[ES] [4K] NOVA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94638
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] CANAL 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANAL24HORAS.png" group-title="[ES] GENERAL",[ES] [4K] CANAL 24 HORAS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94665
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="[ES] [4K] CANAL ORBE21 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALORBE21.png" group-title="[ES] GENERAL",[ES] [4K] CANAL ORBE21 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94661
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="[ES] [4K] 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANAL24HORAS.png" group-title="[ES] GENERAL",[ES] [4K] 24 HORAS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94655
+#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="[ES] [4K] TVGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TVGAHD.png" group-title="[ES] GENERAL",[ES] [4K] TVGA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94645
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="[ES] [4K] FDF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FDF.png" group-title="[ES] GENERAL",[ES] [4K] FDF HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94701
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="[ES] [4K] IBERALIA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/IBERALIATV.png" group-title="[ES] GENERAL",[ES] [4K] IBERALIA TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94694
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="[ES] [4K] MEGA HD " tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEGAHD.png" group-title="[ES] GENERAL",[ES] [4K] MEGA HD 
+http://line.ultraqhd.me:80/7D7074/3F478D/94731
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="[ES] [4K] XTRM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/XTRMHD.png" group-title="[ES] GENERAL",[ES] [4K] XTRM HD
+http://line.ultraqhd.me:80/7D7074/3F478D/167703
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="[ES] [4K] NEOX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NEOX.png" group-title="[ES] GENERAL",[ES] [4K] NEOX HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94617
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] GENERAL",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="tveinteu.es" tvg-name="[ES] [HD] TVE INTERNACIONAL HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/TVEINTERNACIONALHD.png" group-title="[ES] GENERAL",[ES] [HD] TVE INTERNACIONAL HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36550
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="[ES] [HD] LA 1 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LA1HD.png" group-title="[ES] GENERAL",[ES] [HD] LA 1 HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36547
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="[ES] [HD] LA 2 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LA2.png" group-title="[ES] GENERAL",[ES] [HD] LA 2 HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36551
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="[ES] [HD] ANTENA 3 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ANTENA3HD.png" group-title="[ES] GENERAL",[ES] [HD] ANTENA 3 HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36536
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="[ES] [HD] CUATRO HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CUATROHD.png" group-title="[ES] GENERAL",[ES] [HD] CUATRO HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36535
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="[ES] [HD] TELECINCO HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELECINCOHD.png" group-title="[ES] GENERAL",[ES] [HD] TELECINCO HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36531
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="[ES] [HD] LA SEXTA HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LASEXTAHD.png" group-title="[ES] GENERAL",[ES] [HD] LA SEXTA HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36534
+#EXTINF:-1 tvg-ID="canalandalucia.es" tvg-name="[ES] [HD] CANAL SUR A. HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALSURA.png" group-title="[ES] GENERAL",[ES] [HD] CANAL SUR A. HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36483
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="[ES] [HD] FDF HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FDF.png" group-title="[ES] GENERAL",[ES] [HD] FDF HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36490
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="[ES] [HD] IBERALIA TV HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/IBERALIATV.png" group-title="[ES] GENERAL",[ES] [HD] IBERALIA TV HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36475
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="[ES] [HD] MEGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEGAHD.png" group-title="[ES] GENERAL",[ES] [HD] MEGA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/37185
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="[ES] [HD] CANAL 24 HORAS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANAL24HORAS.png" group-title="[ES] GENERAL",[ES] [HD] CANAL 24 HORAS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36549
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="[ES] [HD] NOVA HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NOVA.png" group-title="[ES] GENERAL",[ES] [HD] NOVA HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/37021
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] CANAL ORBE21 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALORBE21.png" group-title="[ES] GENERAL",[ES] [HD] CANAL ORBE21 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94774
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="[ES] [HD] 24 HORAS HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/24HORAS.png" group-title="[ES] GENERAL",[ES] [HD] 24 HORAS HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36485
+#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="[ES] [HD] TVGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TVGAHD.png" group-title="[ES] GENERAL",[ES] [HD] TVGA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/83798
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="[ES] [HD] XTRM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/XTRMHD.png" group-title="[ES] GENERAL",[ES] [HD] XTRM HD
+http://line.ultraqhd.me:80/7D7074/3F478D/167704
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] A3 SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ATRESERIESHD.png" group-title="[ES] GENERAL",[ES] [HD] A3 SERIES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/175876
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="[ES] [HD] NEOX HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NEOX.png" group-title="[ES] GENERAL",[ES] [HD] NEOX HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36470
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] TV3 CATALUNYA" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/TV3CATALUNYA.png" group-title="[ES] GENERAL",[ES] [SD] TV3 CATALUNYA
+http://line.ultraqhd.me:80/7D7074/3F478D/362893
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] BEYOND TV" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEYONDTV.png" group-title="[ES] GENERAL",[ES] [SD] BEYOND TV
+http://line.ultraqhd.me:80/7D7074/3F478D/362897
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] 324TV" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/324TV.png" group-title="[ES] GENERAL",[ES] [SD] 324TV
+http://line.ultraqhd.me:80/7D7074/3F478D/362894
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="[ES] [4K] M.LCAMPEONES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [4K] M.LCAMPEONES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94641
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="[ES] [4K] M.LALIGA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEINLALIGA1HD.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94670
+#EXTINF:-1 tvg-ID="mlaliga1.es" tvg-name="[ES] [4K] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/211782
+#EXTINF:-1 tvg-ID="mlaliga2.es" tvg-name="[ES] [4K] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/211781
+#EXTINF:-1 tvg-ID="mlaliga3.es" tvg-name="[ES] [4K] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [4K] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/211780
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="[ES] [4K] EUROSPORT 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT1.png" group-title="[ES] DEPORTE",[ES] [4K] EUROSPORT 1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94702
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="[ES] [4K] EUROSPORT 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT2.png" group-title="[ES] DEPORTE",[ES] [4K] EUROSPORT 2 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94673
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="[ES] [4K] M.DEPORTES 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES1.png" group-title="[ES] DEPORTE",[ES] [4K] M.DEPORTES 1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94705
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] M.DEPORTES 2" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES2.png" group-title="[ES] DEPORTE",[ES] [4K] M.DEPORTES 2
+http://line.ultraqhd.me:80/7D7074/3F478D/459169
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] M.DEPORTES 3" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES3.png" group-title="[ES] DEPORTE",[ES] [4K] M.DEPORTES 3
+http://line.ultraqhd.me:80/7D7074/3F478D/459168
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="[ES] [4K] GOL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/GOL.png" group-title="[ES] DEPORTE",[ES] [4K] GOL HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94697
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="[ES] [4K] #VAMOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VAMOS.png" group-title="[ES] DEPORTE",[ES] [4K] #VAMOS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94656
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="[ES] [4K] BARÇA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BAR%C3%87ATV.png" group-title="[ES] DEPORTE",[ES] [4K] BARÇA TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94672
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="[ES] [4K] R.MADRID TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/R.MADRIDTV.png" group-title="[ES] DEPORTE",[ES] [4K] R.MADRID TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94635
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="[ES] [4K] TOROS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TOROSHD.png" group-title="[ES] DEPORTE",[ES] [4K] TOROS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94647
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="[ES] [4K] M.GOLF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MGOLFHD.png" group-title="[ES] DEPORTE",[ES] [4K] M.GOLF HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94710
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN1.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/192289
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN2.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 2 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/192288
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN3HD.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 3 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/360351
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN4HD.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN 4 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/360352
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] DAZN F1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZNF1.png" group-title="[ES] DEPORTE",[ES] [4K] DAZN F1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/360355
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="[ES] [4K] M. DEPORTES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTESHD.png" group-title="[ES] DEPORTE",[ES] [4K] M. DEPORTES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94713
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="[ES] [4K] TELEDEPORTE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELEDEPORTE.png" group-title="[ES] DEPORTE",[ES] [4K] TELEDEPORTE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94630
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] M.WIMBLEDON HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MWIMBLEDONHD.png" group-title="[ES] DEPORTE",[ES] [4K] M.WIMBLEDON HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94812
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] DEPORTE",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] LALIGA TV BAR HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/LALIGATVBARHD.png" group-title="[ES] DEPORTE",[ES] [HD] LALIGA TV BAR HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/564706
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="[ES] [HD] M.LALIGA HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEINLALIGA1HD.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36543
+#EXTINF:-1 tvg-ID="mlaliga1.es" tvg-name="[ES] [HD] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/211777
+#EXTINF:-1 tvg-ID="mlaliga2.es" tvg-name="[ES] [HD] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/211778
+#EXTINF:-1 tvg-ID="mlaliga3.es" tvg-name="[ES] [HD] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/211779
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 4 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 4 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564735
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 5 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 5 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564736
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 6 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 6 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564737
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 7 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 7 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564738
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 8 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 8 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564739
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LALIGA 9 (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLALIGA.png" group-title="[ES] DEPORTE",[ES] [HD] M.LALIGA 9 (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564740
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="[ES] [HD] M.LCAMPEONES HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36516
+#EXTINF:-1 tvg-ID="mligadecampeones1.es" tvg-name="[ES] [HD] M.LCAMPEONES 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 1 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283619
+#EXTINF:-1 tvg-ID="mligadecampeones2.es" tvg-name="[ES] [HD] M.LCAMPEONES 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 2 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283620
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 3 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283621
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 4 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 4 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283622
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 5 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 5 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283623
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 6 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 6 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283624
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 7 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 7 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283625
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 8 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 8 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/283626
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 9 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 9 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564702
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 10 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 10 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564703
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 11 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 11 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564704
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.LCAMPEONES 12 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MLCAMPEONES.png" group-title="[ES] DEPORTE",[ES] [HD] M.LCAMPEONES 12 HD (ONLY DURING LIVE MATCHES)
+http://line.ultraqhd.me:80/7D7074/3F478D/564705
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="[ES] [HD] EUROSPORT 1 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT1.png" group-title="[ES] DEPORTE",[ES] [HD] EUROSPORT 1 HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36499
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="[ES] [HD] EUROSPORT 2 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/EUROSPORT2.png" group-title="[ES] DEPORTE",[ES] [HD] EUROSPORT 2 HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36471
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="[ES] [HD] M. DEPORTES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES1HD.png" group-title="[ES] DEPORTE",[ES] [HD] M. DEPORTES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36528
+#EXTINF:-1 tvg-ID="movistardeportes2.es" tvg-name="[ES] [HD] M.DEPORTES 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES1.png" group-title="[ES] DEPORTE",[ES] [HD] M.DEPORTES 1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36509
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.DEPORTES 2" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES2.png" group-title="[ES] DEPORTE",[ES] [HD] M.DEPORTES 2
+http://line.ultraqhd.me:80/7D7074/3F478D/459166
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.DEPORTES 3" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDEPORTES3.png" group-title="[ES] DEPORTE",[ES] [HD] M.DEPORTES 3
+http://line.ultraqhd.me:80/7D7074/3F478D/459167
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="[ES] [HD] GOL HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/GOL.png" group-title="[ES] DEPORTE",[ES] [HD] GOL HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36497
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="[ES] [HD] #VAMOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VAMOS.png" group-title="[ES] DEPORTE",[ES] [HD] #VAMOS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94773
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="[ES] [HD] BARÇA TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BAR%C3%87ATV.png" group-title="[ES] DEPORTE",[ES] [HD] BARÇA TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36503
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] ESPORT 3 BARCELONA" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/ESPORT3BARCELONA.png" group-title="[ES] DEPORTE",[ES] [SD] ESPORT 3 BARCELONA
+http://line.ultraqhd.me:80/7D7074/3F478D/362896
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="[ES] [HD] R. MADRID TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/R.MADRIDTV.png" group-title="[ES] DEPORTE",[ES] [HD] R. MADRID TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36465
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="[ES] [HD] TOROS HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TOROSHD.png" group-title="[ES] DEPORTE",[ES] [HD] TOROS HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36524
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="[ES] [HD] M.GOLF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MGOLFHD.png" group-title="[ES] DEPORTE",[ES] [HD] M.GOLF HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36512
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN1.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/201583
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN2.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 2 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/201584
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN3HD.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 3 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/360350
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZN4HD.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN 4 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/360353
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DAZN F1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DAZNF1.png" group-title="[ES] DEPORTE",[ES] [HD] DAZN F1 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/360354
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 1" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 1
+http://line.ultraqhd.me:80/7D7074/3F478D/527099
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 2" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 2
+http://line.ultraqhd.me:80/7D7074/3F478D/527100
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 3" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 3
+http://line.ultraqhd.me:80/7D7074/3F478D/527101
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 4" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 4
+http://line.ultraqhd.me:80/7D7074/3F478D/527102
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 5" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 5
+http://line.ultraqhd.me:80/7D7074/3F478D/527103
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 6" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 6
+http://line.ultraqhd.me:80/7D7074/3F478D/527104
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 7" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 7
+http://line.ultraqhd.me:80/7D7074/3F478D/527105
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 8" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 8
+http://line.ultraqhd.me:80/7D7074/3F478D/527106
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 9" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 9
+http://line.ultraqhd.me:80/7D7074/3F478D/527107
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FOOTTERS 10" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOOTTERS.png" group-title="[ES] DEPORTE",[ES] [HD] FOOTTERS 10
+http://line.ultraqhd.me:80/7D7074/3F478D/527108
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="[ES] [HD] TELEDEPORTE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TELEDEPORTE.png" group-title="[ES] DEPORTE",[ES] [HD] TELEDEPORTE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36486
+#EXTINF:-1 tvg-ID="movistarmotogp.es" tvg-name="[ES] [HD] M.WIMBLEDONHD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MWIMBLEDONHD.png" group-title="[ES] DEPORTE",[ES] [HD] M.WIMBLEDONHD
+http://line.ultraqhd.me:80/7D7074/3F478D/36532
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="[ES] [4K] M.ACCION HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MACCIONHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.ACCION HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94688
+#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="[ES] [4K] M.CINE ESPANOL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCINEESPANOL.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.CINE ESPANOL HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94714
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="[ES] [4K] M.COMEDIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCOMEDIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.COMEDIA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94706
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="[ES] [4K] M.DRAMA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMA.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.DRAMA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94711
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="[ES] [4K] M.ESTRENOS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.ESTRENOS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94704
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="[ES] [4K] M.SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/MSERIESHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.SERIES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94709
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="[ES] [4K] M.SERIESMANIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MSERIESMANIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [4K] M.SERIESMANIA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94628
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] PELÍCULAS EN SERIE",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="[ES] [HD] M.ACCION HD ◉ " tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MACCIONHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.ACCION HD ◉ 
+http://line.ultraqhd.me:80/7D7074/3F478D/36540
+#EXTINF:-1 tvg-ID="movistardcine.es" tvg-name="[ES] [HD] M. CINE ESPANOL HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCINEESPANOL.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M. CINE ESPANOL HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36478
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="[ES] [HD] M. COMEDIA HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MCOMEDIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M. COMEDIA HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36545
+#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="[ES] [HD] M.DRAMA HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMA.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.DRAMA HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36539
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="[ES] [HD] M.ESTRENOS HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.ESTRENOS HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36507
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.ESTRENOS 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MDRAMAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.ESTRENOS 2 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/511203
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="[ES] [HD] M.SERIES HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/MSERIESHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.SERIES HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36520
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M. SERIES 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/MSERIESHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M. SERIES 2 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/511202
+#EXTINF:-1 tvg-ID="movistarseriesxtra.es" tvg-name="[ES] [HD] M.SERIESMANIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MSERIESMANIAHD.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.SERIESMANIA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36511
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] M.RESISTENCIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MRESISTENCIA.png" group-title="[ES] PELÍCULAS EN SERIE",[ES] [HD] M.RESISTENCIA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/511204
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="[ES] [4K] BABY TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BABYTV.png" group-title="[ES] NIÑOS",[ES] [4K] BABY TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94648
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="[ES] [4K] BOING HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BOING.png" group-title="[ES] NIÑOS",[ES] [4K] BOING HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94667
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="[ES] [4K] CANAL PANDA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALPANDA.png" group-title="[ES] NIÑOS",[ES] [4K] CANAL PANDA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94660
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="[ES] [4K] COMEDYCENTRAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COMEDYCENTRALHD.png" group-title="[ES] NIÑOS",[ES] [4K] COMEDYCENTRAL HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94684
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="[ES] [4K] DISNEY CH HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/DISNEYCH.png" group-title="[ES] NIÑOS",[ES] [4K] DISNEY CH HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94679
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="[ES] [4K] DISNEY JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISNEYJR.png" group-title="[ES] NIÑOS",[ES] [4K] DISNEY JR HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94678
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="[ES] [4K] DREAMWORKS HD" tvg-logo="http://logourl.net/4KOTTLOGO/EU/New/4K.png" group-title="[ES] NIÑOS",[ES] [4K] DREAMWORKS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94677
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="[ES] [4K] CLAN TVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLANTVE.png" group-title="[ES] GENERAL",[ES] [4K] CLAN TVE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94687
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="[ES] [4K] NICK JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKJR.png" group-title="[ES] NIÑOS",[ES] [4K] NICK JR HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94615
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="[ES] [4K] NICKELODEON HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKELODEON%20HD.png" group-title="[ES] NIÑOS",[ES] [4K] NICKELODEON HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94639
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] NIÑOS",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="[ES] [HD] BABY TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BABYTV.png" group-title="[ES] NIÑOS",[ES] [HD] BABY TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36504
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="[ES] [HD] BOING HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BOING.png" group-title="[ES] NIÑOS",[ES] [HD] BOING HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36502
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="[ES] [HD] CANAL PANDA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALPANDA.png" group-title="[ES] NIÑOS",[ES] [HD] CANAL PANDA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36466
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="[ES] [HD] COMEDY CENTRAL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COMEDYCENTRALHD.png" group-title="[ES] NIÑOS",[ES] [HD] COMEDY CENTRAL HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36515
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] DISNEY CH HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/DISNEYCH.png" group-title="[ES] NIÑOS",[ES] [HD] DISNEY CH HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94777
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="[ES] [HD] DISNEY JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISNEYJR.png" group-title="[ES] NIÑOS",[ES] [HD] DISNEY JR HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36476
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="[ES] [HD] DREAMWORKS HD" tvg-logo="http://logourl.net/4KOTTLOGO/EU/New/4K.png" group-title="[ES] NIÑOS",[ES] [HD] DREAMWORKS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36480
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="[ES] [HD] CLAN TVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLANTVE.png" group-title="[ES] GENERAL",[ES] [HD] CLAN TVE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36491
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="[ES] [HD] NICK JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKJR.png" group-title="[ES] NIÑOS",[ES] [HD] NICK JR HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94763
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="[ES] [HD] NICKELODEON  HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NICKELODEON%20HD.png" group-title="[ES] NIÑOS",[ES] [HD] NICKELODEON  HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36525
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [SD] C3 KIDS" tvg-logo="http://logourl.net/4KOTTLOGO/NEW/C3KIDS.png" group-title="[ES] NIÑOS",[ES] [SD] C3 KIDS
+http://line.ultraqhd.me:80/7D7074/3F478D/362895
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="[ES] [4K] FOX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] FOX HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94700
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="[ES] [4K] FOX LIFE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXLIFEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] FOX LIFE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94699
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] 0 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/0HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] 0 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94657
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="[ES] [4K] AMC HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AMCHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AMC HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94654
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] ARAGON TV INT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ARAGONTVINT.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] ARAGON TV INT HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94652
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [4K] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AXN HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94651
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [4K] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AXN HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94650
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="[ES] [4K] AXN WHITE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXNWHITEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] AXN WHITE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94649
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="[ES] [4K] SYFY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SYFYHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] SYFY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94633
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="[ES] [4K] SUNDANCE TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SUNDANCETV.png" group-title="[ES] MÚSICA",[ES] [4K] SUNDANCE TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94634
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="[ES] [4K] TCM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TCMHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] TCM HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94632
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="[ES] [4K] TNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TNTHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] TNT HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94629
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="[ES] [4K] HOLLYWOOD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HOLLYWOODHD.png" group-title="[ES] GENERAL",[ES] [4K] HOLLYWOOD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94695
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="[ES] [4K] BE MAD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEMAD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] BE MAD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94671
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="[ES] [4K] BLAZE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BLAZE.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] BLAZE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94668
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="[ES] [4K] CALLE 13 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CALLE13HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CALLE 13 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94666
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="[ES] [4K] CANAL COCINA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/CANALCOCINA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CANAL COCINA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94664
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="[ES] [4K] CANAL DECASA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALDECASA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CANAL DECASA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94663
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] CANAL ODISEA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALODISEA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CANAL ODISEA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94662
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="[ES] [4K] CAZAYPESCA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CAZAYPESCAHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CAZAYPESCA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94658
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] CLASSICA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLASSICA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CLASSICA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94686
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="[ES] [4K] COSMO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COSMOHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] COSMO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94683
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="[ES] [4K] CRIMEN INVES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CRIMENPLUSINVES.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] CRIMEN INVES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94682
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="[ES] [4K] ENERGY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ENERGY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] ENERGY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94675
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="[ES] [4K] DIVINITY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DIVINITY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] DIVINITY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94676
+#EXTINF:-1 tvg-ID="somos.es" tvg-name="[ES] [4K] SOMOS TV" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SOMOSTV.png" group-title="[ES] ENTRETENIMIENTO",[ES] [4K] SOMOS TV
+http://line.ultraqhd.me:80/7D7074/3F478D/542497
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] ENTRETENIMIENTO",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="[ES] [HD] FOX HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] FOX HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36542
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="[ES] [HD] FOX LIFE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/FOXLIFEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] FOX LIFE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36513
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] 0 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/0HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] 0 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36523
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="[ES] [HD] AMC HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AMCHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AMC HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36537
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] ARAGON TV INT" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ARAGONTVINT.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] ARAGON TV INT
+http://line.ultraqhd.me:80/7D7074/3F478D/36468
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [HD] AXN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AXN HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36477
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="[ES] [HD] AXN HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXN.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AXN HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36548
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="[ES] [HD] AXN WHITE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/AXNWHITEHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] AXN WHITE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36510
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="[ES] [HD] SYFY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SYFYHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] SYFY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36506
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] SUNDANCE TV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SUNDANCETV.png" group-title="[ES] MÚSICA",[ES] [HD] SUNDANCE TV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94771
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="[ES] [HD] TCM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TCMHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] TCM HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36518
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="[ES] [HD] TNT HD ◉ " tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/TNTHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] TNT HD ◉ 
+http://line.ultraqhd.me:80/7D7074/3F478D/36517
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="[ES] [HD] HOLLYWOOD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HOLLYWOODHD.png" group-title="[ES] GENERAL",[ES] [HD] HOLLYWOOD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36541
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="[ES] [HD] BE MAD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BEMAD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] BE MAD
+http://line.ultraqhd.me:80/7D7074/3F478D/36467
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="[ES] [HD] BLAZE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/BLAZE.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] BLAZE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36484
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="[ES] [HD] CALLE 13 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CALLE13HD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CALLE 13 HD ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/36530
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="[ES] [HD] CANAL COCINA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/1/CANALCOCINA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CANAL COCINA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36488
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="[ES] [HD] CANAL DECASA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALDECASA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CANAL DECASA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36494
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="[ES] [HD] CANAL ODISEA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CANALODISEA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CANAL ODISEA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36493
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="[ES] [HD] CAZAYPESCA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CAZAYPESCAHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CAZAYPESCA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36522
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] CLASSICA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CLASSICA.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CLASSICA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36473
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="[ES] [HD] COSMO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/COSMOHD.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] COSMO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36514
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="[ES] [HD] ENERGY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ENERGY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] ENERGY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36500
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="[ES] [HD] CRIMEN+INVES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/CRIMENPLUSINVES.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] CRIMEN+INVES HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36482
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="[ES] [HD] DIVINITY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DIVINITY.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] DIVINITY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36501
+#EXTINF:-1 tvg-ID="somos.es" tvg-name="[ES] [HD] SOMOS TV ◉" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/SOMOSTV.png" group-title="[ES] ENTRETENIMIENTO",[ES] [HD] SOMOS TV ◉
+http://line.ultraqhd.me:80/7D7074/3F478D/542496
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="[ES] [4K] MTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [4K] MTV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94625
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] MTV HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [4K] MTV HITS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94622
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="[ES] [4K] MTV ESPA¹A HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVESPA%C2%B9A.png" group-title="[ES] MÚSICA",[ES] [4K] MTV ESPA¹A HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94623
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [4K] MTV 00 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VH1.png" group-title="[ES] MÚSICA",[ES] [4K] MTV 00 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94644
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="[ES] [4K] MEZZO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZO.png" group-title="[ES] MÚSICA",[ES] [4K] MEZZO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94627
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="[ES] [4K] MEZZO LIVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZOLIVEHD.png" group-title="[ES] MÚSICA",[ES] [4K] MEZZO LIVE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94626
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] MÚSICA",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [HD] MTV HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94768
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVDANCE.png" group-title="[ES] MÚSICA",[ES] [HD] MTV HITS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94765
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV ESPA¹A HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MTVESPA%C2%B9A.png" group-title="[ES] MÚSICA",[ES] [HD] MTV ESPA¹A HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94766
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] MTV 00 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/VH1.png" group-title="[ES] MÚSICA",[ES] [HD] MTV 00 HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36469
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="[ES] [HD] MEZZO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZO.png" group-title="[ES] MÚSICA",[ES] [HD] MEZZO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94769
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="[ES] [HD] MEZZO LIVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/MEZZOLIVEHD.png" group-title="[ES] MÚSICA",[ES] [HD] MEZZO LIVE HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36527
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="[ES] [4K] NAT GEO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOHD.png" group-title="[ES] DOCUMENTAL",[ES] [4K] NAT GEO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94619
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [4K] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [4K] NAT GEO WILD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94618
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [4K] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [4K] NAT GEO WILD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94616
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="[ES] [4K] DMAX HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/DMAX.png" group-title="[ES] DOCUMENTAL",[ES] [4K] DMAX HD
+http://line.ultraqhd.me:80/7D7074/3F478D/465647
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="[ES] [4K] DISCOVERY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISCOVERY.png" group-title="[ES] DOCUMENTAL",[ES] [4K] DISCOVERY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94680
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="[ES] [4K] PARAMOUNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/PARAMOUNT.png" group-title="[ES] DOCUMENTAL",[ES] [4K] PARAMOUNT HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94637
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="[ES] [4K] HISTORIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HISTORIA.png" group-title="[ES] DOCUMENTAL",[ES] [4K] HISTORIA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/94696
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] DOCUMENTAL",-------- [ES] [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="[ES] [HD] NAT GEO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOHD.png" group-title="[ES] DOCUMENTAL",[ES] [HD] NAT GEO HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36526
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [HD] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [HD] NAT GEO WILD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36489
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="[ES] [HD] NAT GEO WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/NATGEOWILD.png" group-title="[ES] DOCUMENTAL",[ES] [HD] NAT GEO WILD HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36519
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="[ES] [HD] DMAX HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/DMAX.png" group-title="[ES] DOCUMENTAL",[ES] [HD] DMAX HD
+http://line.ultraqhd.me:80/7D7074/3F478D/465648
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="[ES] [HD] DISCOVERY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/DISCOVERY.png" group-title="[ES] DOCUMENTAL",[ES] [HD] DISCOVERY HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36481
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="[ES] [HD] PARAMOUNT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/PARAMOUNT.png" group-title="[ES] DOCUMENTAL",[ES] [HD] PARAMOUNT HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36472
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="[ES] [HD] HISTORIA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/HISTORIA.png" group-title="[ES] DOCUMENTAL",[ES] [HD] HISTORIA HD
+http://line.ultraqhd.me:80/7D7074/3F478D/36479
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] FLIX KIDS --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] FLIX ONDEMAND",-------- [ES] [HD] FLIX KIDS --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS HD" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS HD
+http://line.ultraqhd.me:80/7D7074/3F478D/430649
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS TELETUBBIES" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS TELETUBBIES
+http://line.ultraqhd.me:80/7D7074/3F478D/309645
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS WOODY WOODPECKER" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS WOODY WOODPECKER
+http://line.ultraqhd.me:80/7D7074/3F478D/378692
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MICKY MOUSE" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MICKY MOUSE
+http://line.ultraqhd.me:80/7D7074/3F478D/378689
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MUPPET BABIES" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MUPPET BABIES
+http://line.ultraqhd.me:80/7D7074/3F478D/378688
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MR BEAN" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MR BEAN
+http://line.ultraqhd.me:80/7D7074/3F478D/378687
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS MASHA Y EL OSO" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS MASHA Y EL OSO
+http://line.ultraqhd.me:80/7D7074/3F478D/378686
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS SHAUN THE SHEEP" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS SHAUN THE SHEEP
+http://line.ultraqhd.me:80/7D7074/3F478D/309643
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS TOM AND JERRY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS TOM AND JERRY
+http://line.ultraqhd.me:80/7D7074/3F478D/309641
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX KIDS THE PINK PANTHER" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX KIDS THE PINK PANTHER
+http://line.ultraqhd.me:80/7D7074/3F478D/309640
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] FLIX MOVIES --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] FLIX ONDEMAND",-------- [ES] [HD] FLIX MOVIES --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES ACTION" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES ACTION
+http://line.ultraqhd.me:80/7D7074/3F478D/378690
+#EXTINF:-1 tvg-ID="" tvg-name="[ES][HD] FLIX MOVIES CHRISTMAS" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES][HD] FLIX MOVIES CHRISTMAS
+http://line.ultraqhd.me:80/7D7074/3F478D/531126
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES ROMANTIC" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES ROMANTIC
+http://line.ultraqhd.me:80/7D7074/3F478D/378694
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES FAMILY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES FAMILY
+http://line.ultraqhd.me:80/7D7074/3F478D/389622
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES DRAMA" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES DRAMA
+http://line.ultraqhd.me:80/7D7074/3F478D/389621
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES CRIME" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES CRIME
+http://line.ultraqhd.me:80/7D7074/3F478D/389658
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES COMEDY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES COMEDY
+http://line.ultraqhd.me:80/7D7074/3F478D/378691
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES HORROR HD" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES HORROR HD
+http://line.ultraqhd.me:80/7D7074/3F478D/378693
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES WESTERN" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES WESTERN
+http://line.ultraqhd.me:80/7D7074/3F478D/406487
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES DOCUMENTARY" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES DOCUMENTARY
+http://line.ultraqhd.me:80/7D7074/3F478D/389718
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES ANIMATION HD" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES ANIMATION HD
+http://line.ultraqhd.me:80/7D7074/3F478D/389722
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES TOM CRUISE" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES TOM CRUISE
+http://line.ultraqhd.me:80/7D7074/3F478D/413379
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES VAN DAMME" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES VAN DAMME
+http://line.ultraqhd.me:80/7D7074/3F478D/413378
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES JOHN TRAVOLTA" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES JOHN TRAVOLTA
+http://line.ultraqhd.me:80/7D7074/3F478D/421195
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES NICOLAS CAGE" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES NICOLAS CAGE
+http://line.ultraqhd.me:80/7D7074/3F478D/413377
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES JACKIE CHAN" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES JACKIE CHAN
+http://line.ultraqhd.me:80/7D7074/3F478D/423581
+#EXTINF:-1 tvg-ID="" tvg-name="[ES] [HD] FLIX MOVIES JASON STATHAM" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[ES] FLIX ONDEMAND",[ES] [HD] FLIX MOVIES JASON STATHAM
+http://line.ultraqhd.me:80/7D7074/3F478D/421525
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [ES] [HD] FLIX MUSIC --------" tvg-logo="http://logourl.net/4KOTTLOGO/SPAIN/ESPANIAFLAG.png" group-title="[ES] FLIX ONDEMAND",-------- [ES] [HD] FLIX MUSIC --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
